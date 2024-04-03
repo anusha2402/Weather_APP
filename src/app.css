@@ -1,0 +1,41 @@
+.wbg{
+  background: url("https://wallpapercave.com/wp/Z4CD0Ic.jpg");
+  background-blend-mode: lighten;
+  background-size: 100% 100%;
+  height:100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.heading{
+  margin-top: 10px;
+  color: white;
+  font-weight: 800;
+  font-size: 200 rem;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.weatherResultBox{
+  margin:auto;
+  width: 400px;
+  height: 500x;
+  border-color: black;
+}
+.icon{
+  width:200px;
+  height:150px;
+  margin-top: 2rem;
+  /* margin-bottom: 4rem; */
+}
+.city{
+  font-size: 35px;
+  color: white;
+}
+.temp{
+  font-size: 55px;
+  font-weight: 700;
+  color: white;
+}
+.shadow{
+  background-color: #0b0ff1;
+}
